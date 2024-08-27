@@ -2,6 +2,13 @@
 #Template for AL projects for Dynamics 365 Business Central
 #launch.json folder
 .vscode/
+
+/node_modules
+/.pnp
+.pnp.js
+.yarn/install-state.gz
+
+
 #Cache folder
 .alcache/
 #Symbols folder
